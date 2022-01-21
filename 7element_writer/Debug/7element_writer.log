@@ -1,0 +1,10 @@
+﻿  7element_writer.cpp
+C:\Work\C++\Projects\7element_writer\7element_writer\symbolLogic.h(148,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Work\C++\Projects\7element_writer\7element_writer\symbolLogic.h(156,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Work\C++\Projects\7element_writer\7element_writer\symbolLogic.h(164,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Work\C++\Projects\7element_writer\7element_writer\symbolLogic.h(172,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Work\C++\Projects\7element_writer\7element_writer\symbolLogic.h(180,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Work\C++\Projects\7element_writer\7element_writer\symbolLogic.h(188,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Work\C++\Projects\7element_writer\7element_writer\symbolLogic.h(196,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Work\C++\Projects\7element_writer\7element_writer\7element_writer.cpp(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+  7element_writer.vcxproj -> C:\Work\C++\Projects\7element_writer\Debug\7element_writer.exe
